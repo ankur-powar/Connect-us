@@ -1,10 +1,10 @@
-# Microsoft Teams Clone 
+# Connect Us
 This is a **Microsoft teams clone** in which more than two people can connect in real-time.
 
 # Live Demo
 #### - `Wait for the Server's reply during Signing Up` 
 #### - `Don't use Special Characters in User Name and Room Name`
-#### `App Link:` https://pure-oasis-39392.herokuapp.com   
+#### `App Link:` https://connect-uss.herokuapp.com   
 #### `Demo:` https://youtu.be/KgrrSdcZzBU 
 
 ### `You can also try these Demo Accounts:`
