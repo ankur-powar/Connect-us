@@ -5,7 +5,7 @@ This is a **Microsoft teams clone** in which more than two people can connect in
 #### - `Wait for the Server's reply during Signing Up` 
 #### - `Don't use Special Characters in User Name and Room Name`
 #### `App Link:` https://connect-uss.herokuapp.com   
-#### `Demo:` https://youtu.be/KgrrSdcZzBU 
+
 
 ### `You can also try these Demo Accounts:`
 **Email:** `akash@gmail.com` ,  **Password:** `$akash1234` <br>
